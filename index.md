@@ -16,4 +16,4 @@ title: "Bem-vindo ao Meu Portfólio"
 
 ## Contato
 📧 E-mail: [edisonpereirajr@hotmail.com](mailto:edisonpereirajr@hotmail.com)
-💼 LinkedIn: [Edison Júnior](https://www.linkedin.com/in/edison-junior-46a939232)
+💼 LinkedIn: [Edison Pereira Junior](https://www.linkedin.com/in/edison-junior-46a939232)
