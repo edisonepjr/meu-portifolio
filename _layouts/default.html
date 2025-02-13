@@ -7,6 +7,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/styles.scss' | relative_url }}">
 </head>
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/sobre/' | relative_url }}">Sobre Mim</a></li>
+        <li><a href="{{ '/projetos/' | relative_url }}">Projetos</a></li>
+        <li><a href="{{ '/contato/' | relative_url }}">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
   {{ content }}
 </body>
 </html>
