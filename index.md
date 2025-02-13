@@ -3,8 +3,6 @@ layout: home
 title: "Bem-vindo ao Meu Portfólio"
 ---
 
-# Bem-vindo ao Meu Portfólio
-
 ## Sobre Mim
 🎓 Formado em Tecnologia da Informação com ênfase em IoT
 📚 Cursando Engenharia da Computação
